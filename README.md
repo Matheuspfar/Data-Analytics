@@ -17,4 +17,4 @@ Iniciante em análises com R e Python.
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/matheus-farias-b322a9141/)
 * [Medium](https://medium.com/@matheusfarias1507)
-* [Lattes] (http://lattes.cnpq.br/0861277945111358)
+* [Lattes](http://lattes.cnpq.br/0861277945111358)
